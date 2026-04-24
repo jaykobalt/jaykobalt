@@ -1,0 +1,41 @@
+<svg width="420" height="520" viewBox="0 0 420 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="520" rx="28" fill="url(#paint0_linear)"/>
+  <circle cx="134" cy="164" r="26" fill="#F2D666"/>
+  <circle cx="286" cy="126" r="24" fill="#F2D666"/>
+  <circle cx="242" cy="248" r="25" fill="#F2D666"/>
+  <g fill="white">
+    <ellipse cx="134" cy="122" rx="10" ry="28"/>
+    <ellipse cx="134" cy="206" rx="10" ry="28"/>
+    <ellipse cx="92" cy="164" rx="28" ry="10"/>
+    <ellipse cx="176" cy="164" rx="28" ry="10"/>
+    <ellipse cx="106" cy="136" rx="10" ry="28" transform="rotate(-45 106 136)"/>
+    <ellipse cx="162" cy="192" rx="10" ry="28" transform="rotate(-45 162 192)"/>
+    <ellipse cx="106" cy="192" rx="10" ry="28" transform="rotate(45 106 192)"/>
+    <ellipse cx="162" cy="136" rx="10" ry="28" transform="rotate(45 162 136)"/>
+    <ellipse cx="286" cy="88" rx="9" ry="26"/>
+    <ellipse cx="286" cy="164" rx="9" ry="26"/>
+    <ellipse cx="248" cy="126" rx="26" ry="9"/>
+    <ellipse cx="324" cy="126" rx="26" ry="9"/>
+    <ellipse cx="260" cy="101" rx="9" ry="26" transform="rotate(-45 260 101)"/>
+    <ellipse cx="312" cy="151" rx="9" ry="26" transform="rotate(-45 312 151)"/>
+    <ellipse cx="260" cy="151" rx="9" ry="26" transform="rotate(45 260 151)"/>
+    <ellipse cx="312" cy="101" rx="9" ry="26" transform="rotate(45 312 101)"/>
+    <ellipse cx="242" cy="210" rx="10" ry="28"/>
+    <ellipse cx="242" cy="286" rx="10" ry="28"/>
+    <ellipse cx="204" cy="248" rx="28" ry="10"/>
+    <ellipse cx="280" cy="248" rx="28" ry="10"/>
+    <ellipse cx="216" cy="223" rx="10" ry="28" transform="rotate(-45 216 223)"/>
+    <ellipse cx="268" cy="273" rx="10" ry="28" transform="rotate(-45 268 273)"/>
+    <ellipse cx="216" cy="273" rx="10" ry="28" transform="rotate(45 216 273)"/>
+    <ellipse cx="268" cy="223" rx="10" ry="28" transform="rotate(45 268 223)"/>
+  </g>
+  <path d="M132 190V430" stroke="#6F9A61" stroke-width="8" stroke-linecap="round"/>
+  <path d="M285 152V430" stroke="#6F9A61" stroke-width="8" stroke-linecap="round"/>
+  <path d="M241 272V430" stroke="#6F9A61" stroke-width="8" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="210" y1="0" x2="210" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B7D9FF"/>
+      <stop offset="1" stop-color="#E8F3FF"/>
+    </linearGradient>
+  </defs>
+</svg>

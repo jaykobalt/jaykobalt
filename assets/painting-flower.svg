@@ -1,0 +1,17 @@
+<svg width="420" height="520" viewBox="0 0 420 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="520" rx="28" fill="#EDF6FF"/>
+  <rect x="60" y="48" width="210" height="320" rx="12" fill="url(#paint0_linear)"/>
+  <rect x="286" y="308" width="72" height="82" rx="12" fill="#F5E4D1"/>
+  <ellipse cx="209" cy="430" rx="140" ry="28" fill="#DCE8F4"/>
+  <rect x="246" y="148" width="12" height="162" rx="6" fill="#85A86F"/>
+  <path d="M252 136C223 125 200 98 204 65C234 71 251 93 258 121L252 136Z" fill="#D8D08A"/>
+  <path d="M261 125C279 99 315 93 339 111C316 135 285 144 261 125Z" fill="#9FC77B"/>
+  <path d="M251 180C225 177 205 155 207 127C234 131 248 146 256 170L251 180Z" fill="#AEC987"/>
+  <path d="M262 186C284 163 319 161 344 180C319 201 284 209 262 186Z" fill="#DCCF8D"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="165" y1="48" x2="165" y2="368" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BFD8A5"/>
+      <stop offset="1" stop-color="#E7F2FF"/>
+    </linearGradient>
+  </defs>
+</svg>
